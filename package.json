@@ -1,0 +1,22 @@
+{
+  "name": "demojs",
+  "version": "1.0.0",
+  "description": "demo about js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luutien18195/basicJs.git"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Luu Tien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luutien18195/basicJs/issues"
+  },
+  "homepage": "https://github.com/luutien18195/basicJs#readme"
+}
