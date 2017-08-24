@@ -1,4 +1,4 @@
-1. Demo how to code Javascript in ....
+1. Demo how to code Javascript in Visual code
 2. Demo Array programing
 3. Demo git
     * git init
