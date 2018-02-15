@@ -7,7 +7,7 @@ function factorial(n)
         }
         if(n===parseInt(n))
             {
-                if(n <= 1)
+                if(n <= 1 && true)
                     {
                         return 1;
                     }
